@@ -1,0 +1,42 @@
+name: Run Enuff Script and Upload Outputs
+
+on:
+  push:
+    branches:
+      - main  # Change this to 'master' if your default branch uses the old naming
+
+jobs:
+  run-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Check out the repository so the runner can see enuff.py
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # 2. Set up the Python environment
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-state: '3.11' # You can change this to your preferred Python version
+
+    #Install dependencies (Optional)
+    # Un-comment the lines below if enuff.py needs external libraries (like requests, pandas, etc.)
+    - name: Install dependencies
+    #   run: |
+    #     python -m pip install --upgrade pip
+      run: pip install bs4 requests
+
+    # 4. Execute the Python script
+    - name: Run enuff.py
+      run: python f.py
+
+    # 5. Upload everything the script created
+    # This example assumes your script drops files into an 'output' folder.
+    # If it just dumps them in the root directory, change path to: '.'
+    - name: Upload generated artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: enuff-script-outputs
+        path: .
+        if-no-files-found: warn # Changes to 'error' if you want the build to fail when nothing is created
