@@ -35,7 +35,7 @@ jobs:
     # This example assumes your script drops files into an 'output' folder.
     # If it just dumps them in the root directory, change path to: '.'
     - name: Upload generated artifacts
-      uses: actions/artifacts/upload-artifact@v4
+      uses: actions/upload-artifact@v4
       with:
         name: enuff-script-outputs
         path: .
