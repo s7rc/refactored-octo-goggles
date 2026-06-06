@@ -1,0 +1,6129 @@
+[
+    {
+        "name": "Driver",
+        "console": "PC, iOS, macOS, PlayStation, Game Boy Color",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "AquaNox 2 Revelation",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "5",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Worms 2",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Outcast",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "15",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "SWAT: Global Strike Team",
+        "console": "Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "22",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "MechWarrior 2 Mercenaries",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Killer7",
+        "console": "PC, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "TimeSplitters",
+        "console": "PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "150",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "0x10c",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Ghost of Tsushima",
+        "console": "PC, PlayStation 5, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "2020"
+    },
+    {
+        "name": "Halo 2",
+        "console": "PC, Xbox One, Xbox",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "BioShock Infinite",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, Linux, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "2",
+            "images": "214",
+            "videos": "19"
+        },
+        "status": "Released",
+        "year": "2013"
+    },
+    {
+        "name": "Savage: The Battle for Newerth",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Cave Story",
+        "console": "PC, Nintendo Switch, Nintendo 3DS, Nintendo DS, macOS, Linux, Wii",
+        "stats": {
+            "distros": "0",
+            "images": "58",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Black 2",
+        "console": "Nintendo DS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Codename Eagle",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Club Penguin: Elite Penguin Force",
+        "console": "Nintendo DS",
+        "stats": {
+            "distros": "24",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "O.D.T. 2",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "0",
+            "images": "13",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six 3: Raven Shield",
+        "console": "PC, Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Heavy Gear",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "B.C.",
+        "console": "Xbox",
+        "stats": {
+            "distros": "0",
+            "images": "17",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Heavenly Sword",
+        "console": "PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Unreal Championship 2: The Liandri Conflict",
+        "console": "Xbox",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Unreal Tournament",
+        "console": "PC, Linux, PlayStation 2, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "14",
+            "images": "71",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Predator: Concrete Jungle",
+        "console": "Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Command & Conquer: Red Alert",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Corridor 8: Galactic Wars",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Freelancer",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "16",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Internal-7(Darkside)",
+        "console": "PC, Xbox One, Nintendo Switch, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "37",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Hired Guns",
+        "console": "PC, Commodore / Amiga",
+        "stats": {
+            "distros": "2",
+            "images": "11",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Emissary",
+        "console": "PC, macOS, Linux, Web",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Dirty Bomb",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "4",
+            "videos": "9"
+        },
+        "status": "Released",
+        "year": "2013"
+    },
+    {
+        "name": "Vampire Wars",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Ico",
+        "console": "PlayStation 3, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Shadow Madness",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Jimmy Johnson's VR Football '98",
+        "console": "Web",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Beyond Good & Evil",
+        "console": "PC",
+        "stats": {
+            "distros": "3",
+            "images": "158",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Jekyll & Hyde",
+        "console": "PC, Web",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Zenith(Climber)",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Creation",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "14",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Mortyr",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Golgotha",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Plane Crazy",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Shadows of Reality",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "30",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "SiN",
+        "console": "PC, Linux",
+        "stats": {
+            "distros": "6",
+            "images": "195",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Star Trek: New Worlds",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Simon the Sorcerer 3D",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Doom 3",
+        "console": "PC, PlayStation 4, Xbox One, Nintendo Switch, macOS, Linux, Xbox",
+        "stats": {
+            "distros": "2",
+            "images": "123",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "European Air War",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "In Pursuit of Greed",
+        "console": "PC",
+        "stats": {
+            "distros": "9",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Project Overdrive",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "9",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Too Human",
+        "console": "Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "41",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Fallout Tactics Brotherhood of Steel",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Rubu Tribe",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "41",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Black9(Black 9)",
+        "console": "PC, Xbox One, PlayStation 4, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "259",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Far Cry 3",
+        "console": "PC, Xbox One, PlayStation 4, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "12",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2012"
+    },
+    {
+        "name": "SiN Source",
+        "console": "PC, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Quake III Arena",
+        "console": "PC, Linux, PlayStation 2, PlayStation, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "17",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Goblins",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "9",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Amen The Awakening",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "99",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Dominion: Storm Over Gift 3",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Dave Mirra Freestyle BMX",
+        "console": "PC, PlayStation, Game Boy Color, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Quake II",
+        "console": "PC, Linux, Xbox 360, PlayStation, Nintendo 64, Classic Macintosh, Commodore / Amiga",
+        "stats": {
+            "distros": "5",
+            "images": "117",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Chromaform",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "3",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Rock",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "23",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Unreal II: The Awakening",
+        "console": "PC, Xbox",
+        "stats": {
+            "distros": "5",
+            "images": "64",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Source Filmmaker",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2012"
+    },
+    {
+        "name": "Purge(PurgeFinal,PurgeJihad)",
+        "console": "PC",
+        "stats": {
+            "distros": "4",
+            "images": "4",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Prey",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "5",
+            "images": "570",
+            "videos": "9"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "The Protector",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Rise and Fall: Civilizations at War",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "ATV Quad Power Racing 2",
+        "console": "Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Devastation",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "7",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Hitman Codename 47",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Prey",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2017"
+    },
+    {
+        "name": "Dead Phoenix",
+        "console": "PC, iOS, Android, Nintendo 3DS, Nintendo DS, Wii, Game Boy Advance",
+        "stats": {
+            "distros": "0",
+            "images": "3",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Thingummy",
+        "console": "Not Found",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Tiger Woods PGA Tour 2001",
+        "console": "PC, PlayStation 2, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "AI Wars The Awakening",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Second Sight",
+        "console": "PC, Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Xotic(Experience,Exod Intervention)",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "12",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "The Red Star",
+        "console": "PlayStation 2, PSP",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Portal",
+        "console": "PC, Nintendo Switch, Android, macOS, Linux, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "23",
+            "videos": "6"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Daikatana",
+        "console": "PC, Nintendo 64",
+        "stats": {
+            "distros": "55",
+            "images": "246",
+            "videos": "18"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "The Movies",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Black Desert Online",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2015"
+    },
+    {
+        "name": "Rifts: Promise of Power",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Pirates of the Caribbean At World's End",
+        "console": "PC, Nintendo DS, PlayStation 3, PlayStation 2, PSP, Wii",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Sub Culture",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "console": "PC, Xbox, PlayStation 2, Game Boy Advance",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Command & Conquer(Command & Conquer: Generals 2)",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Strife",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Just Cause 3",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2015"
+    },
+    {
+        "name": "Thief: Deadly Shadows",
+        "console": "PC, Xbox",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "The Lord of the Rings: The Battle for Middle-earth II",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Jack Claw",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Prax War 2018",
+        "console": "PC, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Alien Bash II",
+        "console": "Error: 'NoneType' object is not iterable",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Alice Madness Returns",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Halo Wars",
+        "console": "PC, Xbox One, Xbox 360",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Project Offset",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "19",
+            "videos": "56"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Populous: The Beginning",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Red Dead Revolver",
+        "console": "PlayStation 4, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Wildgate",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2025"
+    },
+    {
+        "name": "Technomancer A Calcaphon Adventure",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Serious Sam The First Encounter",
+        "console": "PC, Nintendo Switch",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Skull and Bones",
+        "console": "PC, PlayStation 5, Xbox Series S/X",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2024"
+    },
+    {
+        "name": "Inuits(White Fear)",
+        "console": "Nintendo Switch, iOS, Android",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "The Sims",
+        "console": "PC, Linux, Xbox, PlayStation 2, PlayStation, GameCube, Classic Macintosh",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Tomb Raider III",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Fallout: New Vegas",
+        "console": "PC, Xbox One, PlayStation 4, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Vampire: The Masquerade - Bloodlines",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Abducted",
+        "console": "PC, iOS, macOS",
+        "stats": {
+            "distros": "0",
+            "images": "22",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Chicken Run",
+        "console": "Web",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Glover",
+        "console": "PC, PlayStation, Nintendo 64",
+        "stats": {
+            "distros": "14",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Final Fantasy VIII",
+        "console": "PC, PlayStation 4, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Oddworld Stranger's Wrath",
+        "console": "PC, iOS, Android, macOS, Xbox",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Salvation",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "31",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Outcast II: The Lost Paradise",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "4",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Aliens Colonial Marines",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "8",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2013"
+    },
+    {
+        "name": "Battle Konchuuden",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Panic",
+        "console": "Web",
+        "stats": {
+            "distros": "0",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Made Man",
+        "console": "PC, PlayStation 2",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Baldur's Gate II Shadows of Amn",
+        "console": "PC, Android, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Resident Evil(Bio Hazard)",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4, Xbox Series S/X, Nintendo Switch, iOS",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "EverQuest II",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "8",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Praetorians",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "WiLD",
+        "console": "PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "32",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Duke Nukem 3D",
+        "console": "PC, iOS, Android, Xbox 360, PlayStation, Genesis, SEGA Saturn",
+        "stats": {
+            "distros": "1",
+            "images": "18",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Cryostasis Sleep of Reason",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Shadow of Rome",
+        "console": "PlayStation 2",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Halo 4",
+        "console": "PC, Xbox One, Xbox 360",
+        "stats": {
+            "distros": "17",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2012"
+    },
+    {
+        "name": "DreamWorld",
+        "console": "Web",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Command & Conquer Renegade",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Sid Meier's Gettysburg!",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Princess Maker 4 Special Edition",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Dragon Empires",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "331",
+            "videos": "6"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Fatal Fumes",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Outcast: A New Beginning(Outcast 2: A New Beginning)",
+        "console": "PC, PlayStation 5, Xbox Series S/X",
+        "stats": {
+            "distros": "1",
+            "images": "7",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2024"
+    },
+    {
+        "name": "Fallout Brotherhood of Steel 2",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Prince of Persia: The Forgotten Sands",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Command & Conquer Tiberium",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "11",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Alone in the Dark The New Nightmare",
+        "console": "PC, PlayStation 2, PlayStation, Game Boy Color, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Ratchet & Clank",
+        "console": "PlayStation 3, PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "15",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Halo: Combat Evolved",
+        "console": "PC, macOS, Xbox",
+        "stats": {
+            "distros": "4",
+            "images": "118",
+            "videos": "16"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Starfield",
+        "console": "PC, Xbox Series S/X",
+        "stats": {
+            "distros": "0",
+            "images": "74",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "B-Boy",
+        "console": "PlayStation 2, PSP",
+        "stats": {
+            "distros": "1",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Brink",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "75",
+            "videos": "9"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Hybrid",
+        "console": "Xbox 360, PlayStation, Commodore / Amiga",
+        "stats": {
+            "distros": "1",
+            "images": "80",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "New World Order",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Mad Max",
+        "console": "PC, Xbox One, PlayStation 4, macOS, Linux, Xbox 360",
+        "stats": {
+            "distros": "0",
+            "images": "65",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2015"
+    },
+    {
+        "name": "Doom 4",
+        "console": "PC, iOS, Android",
+        "stats": {
+            "distros": "0",
+            "images": "170",
+            "videos": "5"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Athanor",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "17",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Final Fantasy X",
+        "console": "PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Orchid",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "26",
+            "videos": "5"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Tomb Raider II",
+        "console": "PC, iOS, Android, macOS, PlayStation, Classic Macintosh",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Silent Hills",
+        "console": "PlayStation 4",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "EIN(Epicus Incognitus)",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "34",
+            "videos": "4"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Ryuuko no Ken",
+        "console": "PC, Xbox One, PlayStation 4, iOS, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1994"
+    },
+    {
+        "name": "Heavy Rain",
+        "console": "PC, PlayStation 4, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Myst",
+        "console": "PC, iOS, Nintendo 3DS, Nintendo DS, PlayStation, PSP, Classic Macintosh, Commodore / Amiga, SEGA Saturn, SEGA CD, 3DO, Jaguar",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1993"
+    },
+    {
+        "name": "BioShock",
+        "console": "PC, macOS, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "2",
+            "images": "365",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Chill",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Ryse Son of Rome",
+        "console": "PC, Xbox One",
+        "stats": {
+            "distros": "3",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2013"
+    },
+    {
+        "name": "Project Nano(Blueprint)",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "10",
+            "videos": "7"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Deep Rock Galactic",
+        "console": "PC, PlayStation 5, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2020"
+    },
+    {
+        "name": "Anachronox",
+        "console": "PC",
+        "stats": {
+            "distros": "4",
+            "images": "240",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Bloodshot",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "14",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Gears of War Judgement",
+        "console": "Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2013"
+    },
+    {
+        "name": "Resident Evil 4",
+        "console": "PC, PlayStation 5, PlayStation 4, Xbox Series S/X, iOS",
+        "stats": {
+            "distros": "0",
+            "images": "9",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "East Front",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Monster House",
+        "console": "Nintendo DS, PlayStation 2, GameCube, Game Boy Advance",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "GTR 2 \u00e2\u0080\u0093 FIA GT Racing Game",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Daikatana 2",
+        "console": "PC, Nintendo 64",
+        "stats": {
+            "distros": "0",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "RollerCoaster Tycoon 2",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Impossible Creatures",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "SiN 2 Reborn",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "4",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Command & Conquer Red Alert 2",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Remember Me",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Medal of Honor: Allied Assault",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Grand Prix 3",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "BlackShot",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Final Fantasy XV(Final Fantasy Versus XIII)",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, iOS, Android, PlayStation",
+        "stats": {
+            "distros": "5",
+            "images": "461",
+            "videos": "26"
+        },
+        "status": "Released",
+        "year": "2016"
+    },
+    {
+        "name": "TORN",
+        "console": "PC, PlayStation 4, Android",
+        "stats": {
+            "distros": "0",
+            "images": "29",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Dark Sector",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "21",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Far Cry",
+        "console": "PC, Xbox 360, Xbox, PlayStation 3, PlayStation 2, Wii",
+        "stats": {
+            "distros": "5",
+            "images": "48",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "CellFactor Revolution",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Ninety-Nine Nights",
+        "console": "Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Turok 2: Seeds of Evil",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, Nintendo 64",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Lego Star Wars II: The Original Trilogy",
+        "console": "PC, Xbox 360, Xbox, PlayStation 3, PlayStation 2, PSP, GameCube, Game Boy Advance, Classic Macintosh",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Command & Conquer Red Alert 3",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Mass Effect",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "31",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Wipeout",
+        "console": "PC, PlayStation, SEGA Saturn",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Dark Messiah of Might and Magic",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Under Pressure",
+        "console": "Web",
+        "stats": {
+            "distros": "0",
+            "images": "32",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Maddrax",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "22",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Haze",
+        "console": "PC, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "U.S. Special Forces: Team Factor",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Catherine",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Auryn Quest(The Real Neverending Story Part 1: Auryn Quest)",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "25",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "The Outer Worlds",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch",
+        "stats": {
+            "distros": "0",
+            "images": "15",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2019"
+    },
+    {
+        "name": "Day of the Mutants",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "8",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Creatures 3",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Hitman Blood Money",
+        "console": "PC, PlayStation 4, Xbox 360, Xbox, PlayStation 3, PlayStation 2",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Reich(Reich: Downfall)",
+        "console": "PC, Xbox One, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "4",
+            "videos": "13"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Seed",
+        "console": "Web",
+        "stats": {
+            "distros": "3",
+            "images": "73",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Unreal Warfare",
+        "console": "PC",
+        "stats": {
+            "distros": "3",
+            "images": "55",
+            "videos": "3"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Delta Force Land Warrior",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Second Life",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "8"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Frame City Killer",
+        "console": "Xbox 360",
+        "stats": {
+            "distros": "0",
+            "images": "501",
+            "videos": "2"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Railroad Tycoon II",
+        "console": "PC, Linux, PlayStation, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Skate 3",
+        "console": "Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Chaos Kingdom",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Duality",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "277",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Quake 4",
+        "console": "PC, macOS, Linux, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Starsiege: Tribes",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Tomb Raider: Chronicles",
+        "console": "PC, PlayStation, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Half-Life 2: Episode Three",
+        "console": "PC, Android, macOS, Linux, Xbox 360",
+        "stats": {
+            "distros": "0",
+            "images": "34",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Jet Moto 2124",
+        "console": "PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "X-COM Interceptor",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Gruesome Castle Gee Whiz! Mystery Club",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Project Nomads",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "10",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Tom Clancy's Ghost Recon: Future Soldier",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2012"
+    },
+    {
+        "name": "Alpha Protocol",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Killzone 2",
+        "console": "PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Constantine",
+        "console": "PC, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Tennis Masters Series",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Cult County",
+        "console": "Nintendo 3DS",
+        "stats": {
+            "distros": "0",
+            "images": "14",
+            "videos": "2"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Blitzkrieg(\u00d0\u0091\u00d0\u00bb\u00d0\u00b8\u00d1\u0086\u00d0\u00ba\u00d1\u0080\u00d0\u00b8\u00d0\u00b3)",
+        "console": "PC, iOS, Android, macOS",
+        "stats": {
+            "distros": "0",
+            "images": "3",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Neverwinter Nights",
+        "console": "PC, iOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Metroid Prime",
+        "console": "Wii, GameCube",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Fate",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "GunZ 2 The Second Duel(GunZ 2)",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Realms of the Haunting",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "BloodRayne",
+        "console": "PC, Nintendo Switch, Xbox, PlayStation 3, PlayStation 2, GameCube, Classic Macintosh",
+        "stats": {
+            "distros": "1",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Unreal",
+        "console": "PC",
+        "stats": {
+            "distros": "31",
+            "images": "374",
+            "videos": "14"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Abuse",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Incoming",
+        "console": "PC, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Tonic Trouble",
+        "console": "PC, Nintendo 64, Game Boy Color",
+        "stats": {
+            "distros": "2",
+            "images": "107",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Area 51",
+        "console": "PC, PlayStation, SEGA Saturn",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "William Shatner's TekWar",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Haven Call of the King",
+        "console": "PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "22",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Microsoft Baseball 2001",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Hidden & Dangerous",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Magic Carpet",
+        "console": "PC, PlayStation, SEGA Saturn",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1994"
+    },
+    {
+        "name": "Primal",
+        "console": "PlayStation 4, PlayStation 2",
+        "stats": {
+            "distros": "3",
+            "images": "85",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Hyper Scape",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "40",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2020"
+    },
+    {
+        "name": "Battlefield 1943",
+        "console": "Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Tribal Rage",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Delta Force Black Hawk Down",
+        "console": "PC, macOS, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Star Wars: First Assault",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Speedball Arena",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "23",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Star Wars Battlefront III",
+        "console": "PC, macOS, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "33",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Alone in the Dark",
+        "console": "PC, PlayStation 5, Xbox Series S/X",
+        "stats": {
+            "distros": "0",
+            "images": "9",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1992"
+    },
+    {
+        "name": "Galleon",
+        "console": "Xbox",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Gunlok",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Rayman 3 Hoodlum Havoc",
+        "console": "PC, Xbox, PlayStation 2, GameCube, Classic Macintosh",
+        "stats": {
+            "distros": "2",
+            "images": "7",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Excalibur 2555 AD",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Beyond",
+        "console": "Web",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Into the Shadows",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "76",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Third World",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "87",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Headhunter",
+        "console": "PlayStation 2, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Saints Row",
+        "console": "PC, Xbox One, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "London Racer (M25 Racer)",
+        "console": "PC, iOS",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Project Snowblind",
+        "console": "PC, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "FreeSpace 2",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Warhammer Agents of Death",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "8",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Ghosthunter",
+        "console": "PlayStation 2, Web",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Test Drive 5",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Assassin's Creed",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Midtown Madness 2",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Recall",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "3",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Narbacular Drop",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Gears of War(Unreal Warfare)",
+        "console": "Xbox 360",
+        "stats": {
+            "distros": "13",
+            "images": "147",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Counter-Strike",
+        "console": "PC, macOS, Linux, Xbox",
+        "stats": {
+            "distros": "4",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Battle of Britain",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Turok",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "11",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Marathon 2 Durandal",
+        "console": "PC, iOS, macOS, Xbox 360",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Pirates of the Caribbean",
+        "console": "PC, Xbox, PlayStation 2, Game Boy Advance",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Fallout",
+        "console": "PC, macOS, Linux, Classic Macintosh",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Unreal Tournament 3",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "24",
+            "videos": "5"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Prey Invasion",
+        "console": "iOS",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Unreal Tournament 2003",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Shadowrun",
+        "console": "PC, Xbox One, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "The Wheel of Time",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "48",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "The Simpsons: Hit & Run",
+        "console": "PC, Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Iron Angel",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Driv3r(Driver 3)",
+        "console": "PC, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "11",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Thief: The Dark Project(The Dark Project,Dark Camelot)",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "69",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Duke Nukem Endangered Species",
+        "console": "PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "7th Legion",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Manhunt",
+        "console": "PC, PlayStation 4, Xbox, PlayStation 3, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Command & Conquer Renegade 2",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "46",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Vexx II",
+        "console": "Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Half-Life 2: Episode Two",
+        "console": "PC, Android, macOS, Linux, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Army Men",
+        "console": "PC, Game Boy Color",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Nocturne",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Prophecy",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "9",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "The Mark of Kri",
+        "console": "PlayStation 4, PlayStation 2",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Mountain Bike Adrenaline",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Dungeon Keeper 2",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "SiN Episodes Emergence",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "18",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Recoil",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Shogo: Legacy of the Fallen",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4, Xbox Series S/X",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Sacrifice",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Urban Assault",
+        "console": "PC, iOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Creatures",
+        "console": "PlayStation, Commodore / Amiga, Atari ST",
+        "stats": {
+            "distros": "1",
+            "images": "14",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Marathon Infinity",
+        "console": "iOS, macOS",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Primal II",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Carmageddon II Carpocalypse Now",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Quake",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4, Xbox Series S/X, Nintendo Switch, macOS, Linux, Xbox, Nintendo 64, Classic Macintosh, Commodore / Amiga, SEGA Saturn",
+        "stats": {
+            "distros": "3",
+            "images": "25",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Black & White 2",
+        "console": "Xbox One, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "4",
+            "videos": "16"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Saboteur",
+        "console": "PC, PlayStation 4, Nintendo Switch, iOS, Commodore / Amiga",
+        "stats": {
+            "distros": "0",
+            "images": "57",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Shadow Man",
+        "console": "PC, macOS, PlayStation, Nintendo 64, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "5"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Double Dragon II: The Revenge",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, Nintendo 3DS, Xbox 360, Wii U, Wii, NES, Commodore / Amiga, Atari ST, Genesis",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1988"
+    },
+    {
+        "name": "Evolve",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2015"
+    },
+    {
+        "name": "Battlefield 1942",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Team Fortress 2",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Hunt: Showdown",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "2019"
+    },
+    {
+        "name": "Crysis 2",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "2",
+            "images": "14",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "The Operative: No One Lives Forever",
+        "console": "PC, macOS, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Messiah",
+        "console": "PC",
+        "stats": {
+            "distros": "5",
+            "images": "794",
+            "videos": "107"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Enclave",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Esoteria Techno-Assassin of the Future",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Wolfenstein",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "The City of Metronome",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "29",
+            "videos": "2"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "8Bit Killer",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Duke Nukem: D-Day",
+        "console": "PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Starsiege",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Star Fox Adventures(Dinosaur Planet)",
+        "console": "GameCube",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Fighting Force",
+        "console": "PC, PlayStation, Nintendo 64",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Mario + Rabbids Sparks of Hope",
+        "console": "Nintendo Switch",
+        "stats": {
+            "distros": "0",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2022"
+    },
+    {
+        "name": "UEFA Euro 96 England",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Dungeon Siege",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Star Wars Galactic Battlegrounds",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Aliens versus Predator 2",
+        "console": "PC",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Alice Asylum",
+        "console": "Error: 'NoneType' object is not iterable",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Aliens vs. Predator",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Star Trek: First Contact",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "D. JUMP",
+        "console": "iOS, Android",
+        "stats": {
+            "distros": "0",
+            "images": "38",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Asheron's Call",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Myth: The Fallen Lords",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Gorkamorka",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Actua Soccer",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Call of Cthulhu Destiny's End",
+        "console": "PC, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Hexplore",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Shadowrun",
+        "console": "PC, Xbox One, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Politically Incorrect Game(P.I.G.)",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six",
+        "console": "PC, PlayStation, Nintendo 64, Classic Macintosh, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Deus Ex",
+        "console": "PC, macOS, PlayStation 3, PlayStation 2",
+        "stats": {
+            "distros": "8",
+            "images": "2",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Solitude",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Creatures 3D",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Crysis Next",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "GoldenEye 007",
+        "console": "Nintendo 64",
+        "stats": {
+            "distros": "7",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Vietcong",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Drome Racers",
+        "console": "PC, PlayStation 2, GameCube, Game Boy Advance",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Fallen Haven",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Spore",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "189",
+            "videos": "9"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Private Wars",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Duke Nukem Begins(Duke Begins)",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "12",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Thief",
+        "console": "PC, Xbox One, PlayStation 4, macOS, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2014"
+    },
+    {
+        "name": "Rage",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "189",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Age of Empires II",
+        "console": "PC, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Rise of the Triad",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1994"
+    },
+    {
+        "name": "INCorporated",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "87",
+            "videos": "7"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Energy",
+        "console": "PC, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Stars of Blood",
+        "console": "PC, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Blood & Magic",
+        "console": "PC, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Lethal Enforcers I & II",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Imperium Galactica II Alliances",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Max Payne",
+        "console": "PC, PlayStation 4, Xbox 360, Xbox, PlayStation 3, PlayStation 2, Classic Macintosh",
+        "stats": {
+            "distros": "14",
+            "images": "7",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Untold Legends: Dark Kingdom",
+        "console": "PlayStation 3",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Rock of Ages",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Meat Puppet",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "RTX Red Rock",
+        "console": "PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Armageddon",
+        "console": "PC, iOS",
+        "stats": {
+            "distros": "0",
+            "images": "13",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Frogger",
+        "console": "PC, PlayStation 4, Nintendo Switch, iOS, Android, PlayStation, Game Boy Color, Game Boy, SNES, Classic Macintosh, Apple II, Commodore / Amiga, Atari 5200, Atari 2600, Atari 8-bit, Genesis",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "The Cursed Crusade",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Will Rock",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "8",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Rune",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Divinity II",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Shogo: Mobile Armor Division(Riot: Mobile Armor)",
+        "console": "PC, Linux, Classic Macintosh, Commodore / Amiga",
+        "stats": {
+            "distros": "15",
+            "images": "59",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Ultra Assault",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "WipEout Pulse",
+        "console": "PlayStation 2, PSP",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Turok: Dinosaur Hunter",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, macOS, Nintendo 64, Game Boy",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Blood",
+        "console": "PC, Linux",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Hitman",
+        "console": "PC, Xbox One, PlayStation 4, macOS, Linux",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2016"
+    },
+    {
+        "name": "Prey 2",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "140",
+            "videos": "43"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "TimeSplitters 2",
+        "console": "Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "0",
+            "images": "68",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "The Nomad Soul(Omikron: The Nomad Soul)",
+        "console": "PC, PlayStation 2, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "111",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Turok Evolution",
+        "console": "PC, Xbox, PlayStation 2, GameCube, Game Boy Advance",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Green Thang(Frogs)",
+        "console": "PC, Nintendo Switch, macOS, Linux, PS Vita",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Witchwood",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Final Fantasy VII Remake",
+        "console": "PC, PlayStation 5, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "112",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2020"
+    },
+    {
+        "name": "Ragnarok Online 2: The Gate of the World",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Archangel",
+        "console": "PC, PlayStation 4, Android",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Startopia",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Heroes of Annihilated Empires",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "TimeShift",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "4",
+            "images": "51",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "RollerCoaster Tycoon",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Mercenaries: Playground of Destruction",
+        "console": "Xbox, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Rayman Raving Rabbids 2",
+        "console": "PC, Nintendo DS, Wii",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Stargate Worlds",
+        "console": "PC",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "The Devil Inside",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, iOS, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Beetle Crazy Cup",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Links 2001",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Rayman M",
+        "console": "PC, Xbox, PlayStation 3, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "console": "PC, PlayStation 4, Nintendo Switch, macOS, Xbox, GameCube, Classic Macintosh",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "F-16 Multirole Fighter",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "XIII",
+        "console": "PC, PlayStation 4, Xbox One, Xbox, PlayStation 2, GameCube, Classic Macintosh",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Droplitz",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Engalus",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "12",
+            "videos": "2"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Patterns",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Jeff Wayne's The War of the Worlds",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "0",
+            "images": "28",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Red Faction II",
+        "console": "PC, PlayStation 4, Xbox One, Xbox 360, Xbox, PlayStation 3, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "644",
+            "videos": "14"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Omikron 2(Nomad Soul: Exodus,Omikron 2: Karma)",
+        "console": "PC, PlayStation 2, Dreamcast",
+        "stats": {
+            "distros": "0",
+            "images": "10",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "TEAM 47 GoMan",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "X-Plane",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "The Darkness(P5)",
+        "console": "PC, PlayStation 4, Nintendo Switch, macOS",
+        "stats": {
+            "distros": "14",
+            "images": "49",
+            "videos": "11"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Enemy Territory Quake Wars",
+        "console": "PC, macOS, Linux, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Agartha",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "21",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Quark",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "42",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Project Apollo",
+        "console": "iOS, Android, Nintendo 3DS, Nintendo DS",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Tom Clancy's The Division",
+        "console": "PC, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2016"
+    },
+    {
+        "name": "Virtual Snooker",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Deus Ex Invisible War",
+        "console": "PC, Xbox",
+        "stats": {
+            "distros": "0",
+            "images": "69",
+            "videos": "8"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Supreme Snowboarding(Boarder Zone)",
+        "console": "Game Boy Color",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Mutatis",
+        "console": "iOS",
+        "stats": {
+            "distros": "0",
+            "images": "41",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "The Chronicles of Riddick: Escape from Butcher Bay",
+        "console": "PC, Xbox",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Ghost Master",
+        "console": "PC, macOS, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "RoboBlitz",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "007 Goldeneye Remaster",
+        "console": "Nintendo 64",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Nexus",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Anne McCaffrey's Freedom First Resistance",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "23",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Spider-Man: Shattered Dimensions",
+        "console": "PC, Nintendo DS, Xbox 360, PlayStation 3, Wii",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "BRII(Brink 2)",
+        "console": "PC, macOS, Linux, Web",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Stargate SG-1: The Alliance",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Beyond Good & Evil 2 (2008)",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "30",
+            "videos": "4"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Fallout 4",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4",
+        "stats": {
+            "distros": "0",
+            "images": "10",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2015"
+    },
+    {
+        "name": "Throne of Darkness",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Battalion Wars 2",
+        "console": "Wii",
+        "stats": {
+            "distros": "0",
+            "images": "7",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Fallout Online(Project V13)",
+        "console": "PC, macOS, Linux, Classic Macintosh",
+        "stats": {
+            "distros": "0",
+            "images": "12",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Urban Decay",
+        "console": "PC, Xbox One, iOS, macOS, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "26",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Command & Conquer 3",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "8",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Doom",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch",
+        "stats": {
+            "distros": "5",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "1993"
+    },
+    {
+        "name": "Colin McRae Rally 2.0",
+        "console": "PC, PlayStation, Game Boy Advance",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Lego Island",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "MechWarrior 4 Mercenaries",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Crank the Weasel",
+        "console": "PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Immortals Fenyx Rising(Gods & Monsters)",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4, Xbox Series S/X, Nintendo Switch",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2020"
+    },
+    {
+        "name": "Thief II: The Metal Age",
+        "console": "PC",
+        "stats": {
+            "distros": "2",
+            "images": "58",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Fable",
+        "console": "PC, PlayStation 5, Xbox Series S/X",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "360 Three Sixty",
+        "console": "PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Resistance Fall of Man",
+        "console": "PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "10",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "console": "PC, Xbox, PlayStation 2, GameCube, Classic Macintosh",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Crysis Warhead",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Titan A.E.",
+        "console": "PC, PlayStation 4, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Star Wars: Knights of the Old Republic",
+        "console": "PC, Xbox One, Nintendo Switch, iOS, Android, macOS, Xbox 360, Xbox",
+        "stats": {
+            "distros": "0",
+            "images": "11",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Zeno Clash",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "9",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Disney Universe",
+        "console": "PC, Xbox 360, PlayStation 3, Wii",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Gears of War 2",
+        "console": "Xbox One, Xbox 360",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Minimum",
+        "console": "PC",
+        "stats": {
+            "distros": "19",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2014"
+    },
+    {
+        "name": "Rayman Raving Rabbids(Rayman 4)",
+        "console": "PC, Nintendo DS, Xbox 360, PlayStation 2, Wii U, Wii, Game Boy Advance",
+        "stats": {
+            "distros": "2",
+            "images": "90",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Wishworld",
+        "console": "PC, PlayStation, Classic Macintosh, SEGA Saturn",
+        "stats": {
+            "distros": "0",
+            "images": "11",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Enforce",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "0",
+            "images": "6",
+            "videos": "2"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Iris Online",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Jeremy McGrath Supercross World",
+        "console": "PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Left 4 Dead",
+        "console": "PC, macOS, Xbox 360",
+        "stats": {
+            "distros": "2",
+            "images": "78",
+            "videos": "17"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "The Crossing",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "20",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Oni",
+        "console": "PC, macOS, PlayStation 2",
+        "stats": {
+            "distros": "2",
+            "images": "108",
+            "videos": "3"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "The Saboteur",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Pachinko Dream",
+        "console": "PC, Nintendo Switch, macOS, PS Vita",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1996"
+    },
+    {
+        "name": "Good & Evil",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "7",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Aeon Flux",
+        "console": "Xbox, PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "8",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Prospero",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Kanaan(Chaos)",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, Android, PlayStation 3, PS Vita",
+        "stats": {
+            "distros": "0",
+            "images": "60",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Dead Space",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2008"
+    },
+    {
+        "name": "Legend of Legaia",
+        "console": "PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "The Settlers III",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Command & Conquer Generals",
+        "console": "PC",
+        "stats": {
+            "distros": "6",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Dead Justice",
+        "console": "PC",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Warriors of Might and Magic",
+        "console": "PlayStation 2, PlayStation, Game Boy Color",
+        "stats": {
+            "distros": "1",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Duke Nukem Forever",
+        "console": "PC, Xbox One, macOS, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "2",
+            "images": "207",
+            "videos": "7"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "NASCAR Racing 3",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Terminus",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "21",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Monsters, Inc.",
+        "console": "Game Boy Advance, Game Boy Color",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Magic Carpet 2: The Netherworlds",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Condemned Criminal Origins",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Portal 2",
+        "console": "PC, Xbox One, macOS, Linux, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "22",
+            "videos": "5"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "X-COM Alliance",
+        "console": "PC",
+        "stats": {
+            "distros": "4",
+            "images": "22",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Federation",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Evil Twin Cyprien's Chronicles",
+        "console": "PC, PlayStation 2, Dreamcast",
+        "stats": {
+            "distros": "6",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Climax Studios Project",
+        "console": "iOS, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Shadow Warrior",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Rayman Origins",
+        "console": "PC, Xbox One, iOS, Nintendo 3DS, macOS, Xbox 360, PlayStation 3, PS Vita, Wii",
+        "stats": {
+            "distros": "0",
+            "images": "21",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Jak 4(Jak & Daxter 4)",
+        "console": "PlayStation 4, PlayStation 3, PlayStation 2, PS Vita",
+        "stats": {
+            "distros": "0",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Star Wars Jedi Knight: Jedi Academy",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, macOS, Xbox 360, Xbox",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Alien Odyssey",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Crysis",
+        "console": "PC, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2007"
+    },
+    {
+        "name": "Breed",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "22",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "Rayman 4",
+        "console": "PC, iOS, Android, Nintendo DS, PlayStation, Game Boy Color, SEGA Saturn, SEGA 32X, Jaguar",
+        "stats": {
+            "distros": "0",
+            "images": "33",
+            "videos": "10"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Gex Jr.",
+        "console": "PC, PlayStation, SEGA Saturn, 3DO",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Star Wars Galaxies",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Final Fantasy Fortress Project",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, iOS, Android, PlayStation",
+        "stats": {
+            "distros": "0",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Shadow of Memories",
+        "console": "PC, Xbox, PlayStation 2, PSP",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Take No Prisoners",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Black & White",
+        "console": "Xbox One, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "2",
+            "images": "67",
+            "videos": "6"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Trinity: The Shatter Effect",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "42",
+            "videos": "7"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Call of Cthulhu Dark Corners of the Earth",
+        "console": "PC, Xbox",
+        "stats": {
+            "distros": "0",
+            "images": "9",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Captain Blood(Age of Pirates: Captain Blood)",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4, Xbox Series S/X, Nintendo Switch",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2025"
+    },
+    {
+        "name": "Sonic Xtreme",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "HardBall 5",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Gears of War 3",
+        "console": "Xbox One, Xbox 360",
+        "stats": {
+            "distros": "14",
+            "images": "17",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Seven Kingdoms",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Highlander: The Game",
+        "console": "PC",
+        "stats": {
+            "distros": "7",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Giants Citizen Kabuto",
+        "console": "PC, PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Kaos",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Mega Man 10",
+        "console": "Xbox One, Xbox 360, PlayStation 3, Wii",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Pandora's Tower",
+        "console": "Wii",
+        "stats": {
+            "distros": "0",
+            "images": "113",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Deus Ex: Human Revolution",
+        "console": "PC, Xbox One, macOS, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "23",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Outwars",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "C-12 Final Resistance",
+        "console": "PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Zeus Master of Olympus",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "Warcraft II: The Dark Saga",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    },
+    {
+        "name": "Grim Fandango",
+        "console": "PC",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1998"
+    },
+    {
+        "name": "Metal Arms: Glitch in the System",
+        "console": "Xbox 360, Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2003"
+    },
+    {
+        "name": "Barb Wire",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "5",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Junction Point",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "0",
+            "images": "2",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Final Fantasy XIII",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "24",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2009"
+    },
+    {
+        "name": "Unreal Tournament 2004",
+        "console": "PC, macOS, Linux",
+        "stats": {
+            "distros": "3",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2004"
+    },
+    {
+        "name": "StarCraft: Ghost",
+        "console": "Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Army Men Green Rogue(Army Men Omega Soldier)",
+        "console": "PlayStation 2, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2001"
+    },
+    {
+        "name": "Wrath of the Fallen",
+        "console": "PC, macOS",
+        "stats": {
+            "distros": "0",
+            "images": "6",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Fortnite",
+        "console": "PC, PlayStation 5, PlayStation 4, Xbox One, Xbox Series S/X, Nintendo Switch, iOS, Android",
+        "stats": {
+            "distros": "4",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2017"
+    },
+    {
+        "name": "The Outfit",
+        "console": "Xbox 360",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Sega Rally Championship",
+        "console": "PC, Game Boy Advance, SEGA Saturn",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1995"
+    },
+    {
+        "name": "Forbidden Place",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "121",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "TimeSplitters 4",
+        "console": "Xbox, PlayStation 2, GameCube",
+        "stats": {
+            "distros": "1",
+            "images": "14",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Call of Juarez",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "MDK2",
+        "console": "PC, PlayStation 2, Wii, Dreamcast",
+        "stats": {
+            "distros": "2",
+            "images": "11",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2000"
+    },
+    {
+        "name": "The Punisher",
+        "console": "PC, Xbox, PlayStation 2",
+        "stats": {
+            "distros": "0",
+            "images": "1",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2005"
+    },
+    {
+        "name": "Bulletstorm",
+        "console": "PC, Xbox One, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2011"
+    },
+    {
+        "name": "Warframe",
+        "console": "PC, PlayStation 5, Xbox One, PlayStation 4, Xbox Series S/X, Nintendo Switch, iOS",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "26"
+        },
+        "status": "Released",
+        "year": "2013"
+    },
+    {
+        "name": "Arx Fatalis",
+        "console": "PC, macOS, Linux, Xbox",
+        "stats": {
+            "distros": "2",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Tomb Raider: Ascension",
+        "console": "PC, macOS, Xbox 360, PlayStation 3",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "1"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Unreal Championship",
+        "console": "Xbox",
+        "stats": {
+            "distros": "2",
+            "images": "23",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Watch Dogs",
+        "console": "PC, Xbox One, PlayStation 4, Xbox 360, PlayStation 3, Wii U",
+        "stats": {
+            "distros": "27",
+            "images": "48",
+            "videos": "2"
+        },
+        "status": "Released",
+        "year": "2014"
+    },
+    {
+        "name": "Alien Swarm",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "3",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2010"
+    },
+    {
+        "name": "Herdy Gerdy",
+        "console": "PlayStation 2",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "V-Rally 2",
+        "console": "PC, PlayStation, Dreamcast",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1999"
+    },
+    {
+        "name": "Arena AD",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "17",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Werewolf The Apocalypse Heart Of Gaia",
+        "console": "PC, Xbox One, PlayStation 4, Nintendo Switch, macOS, Linux",
+        "stats": {
+            "distros": "0",
+            "images": "63",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Bliss Island",
+        "console": "PC, Xbox 360",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2006"
+    },
+    {
+        "name": "Tom Clancy's Splinter Cell",
+        "console": "PC, Xbox One, Xbox 360, Xbox, PlayStation 3, PlayStation 2, GameCube, Game Boy Advance, Classic Macintosh",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "2002"
+    },
+    {
+        "name": "Unreal: Steele Dawn",
+        "console": "PC",
+        "stats": {
+            "distros": "0",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Cancelled",
+        "year": "N/A"
+    },
+    {
+        "name": "Men in Black: The Game",
+        "console": "PC, PlayStation",
+        "stats": {
+            "distros": "1",
+            "images": "0",
+            "videos": "0"
+        },
+        "status": "Released",
+        "year": "1997"
+    }
+]
